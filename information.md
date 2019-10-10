@@ -3,12 +3,12 @@
 
 Fill in your personal information, stage the changes, and commit with a meaningful commit message.  Then push the commit to the remote repository.
 
-* Name:
+* Name: Timo Honsel
 
-* LSE ID:
+* LSE ID: 201118156
 
-* LSE email address:
+* LSE email address: T.Honsel@lse.ac.uk
 
-* Programme:
+* Programme: ASDS MSc
 
 * (Optional) Personal website:
